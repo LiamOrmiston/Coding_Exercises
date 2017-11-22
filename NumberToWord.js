@@ -1,3 +1,7 @@
+// Write a function that takes in an integer and returns a string of
+// how someone would say it.
+// ex. 101 would be one-hundred one
+
 function sayit (number) {
 	var word = "";
 	var numLength = number.toString().length;
